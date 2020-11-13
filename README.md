@@ -1,2 +1,3 @@
 # NavalServidor
-sda
+
+Servidor para juego básico de batalla naval.
